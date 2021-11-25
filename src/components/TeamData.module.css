@@ -1,0 +1,12 @@
+.container {
+  border: 2px solid rgb(185, 185, 185);
+  padding: 1.5rem;
+  background-color: rgba(66, 66, 66, 0.575);
+  color: white;
+  margin: 1rem;
+}
+@media only screen and (min-width: 750px) {
+  .container {
+    width: 23%;
+  }
+}
